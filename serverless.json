@@ -101,8 +101,8 @@
             {
               "type": "fragment",
               "settings": {
-                "packets": "tlshello",
-                "length": "100-200",
+                "packets": "1-1",
+                "length": "1",
                 "delay": "1"
               }
             }
